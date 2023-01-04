@@ -1,2 +1,2 @@
 # Nostalgia
-Nostr Rust Client
+Nostr Rust Server
